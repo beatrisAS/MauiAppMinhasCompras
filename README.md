@@ -91,7 +91,7 @@ MauiAppMinhasCompras/
 
 Assista ao vídeo demonstrando o funcionamento do aplicativo no YouTube:
 
-<a href="https://www.seulink.com](https://youtu.be/rrAKNwuhrpI" target="_blank">Clique aqui para ver o vídeo!</a>
+<a href="https://youtu.be/rrAKNwuhrpI" target="_blank">Clique aqui para ver o vídeo!</a>
 
 ---
 
